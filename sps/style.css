@@ -1,0 +1,23 @@
+body{
+	background-color: #F21170;
+}
+.sps{
+	text-align: center;
+	font-style: "Audiowide", sans-serif;
+	font-variant-caps: small-caps;
+	font-size:30px;
+	text-shadow: 5px;
+}
+.ic{
+	display: inline-block;
+	margin:20px;
+}
+h2{
+	font-style:"Audiowide", sans-serif ; 
+	font-size: 30px;
+}
+footer{
+	text-align: center;
+	font-style: "Audiowide", sans-serif;
+	margin-top: 100px;
+}

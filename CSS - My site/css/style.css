@@ -1,0 +1,116 @@
+.top-container{
+
+  text-align: center;
+  position: relative;
+  margin:100px;
+  padding-top: 100px;
+}
+body{
+  margin: 0;
+  background-color: #EAF6F6;
+  text-align: center;
+  font-size: 1.15rem;
+}
+h1{
+  margin: 10px 0 0 0;
+  font-family: 'Staatliches', cursive;
+  font-size: 5.625rem;
+  color: #fb9300;
+}
+h2{
+  color: #fb9300;
+  font-family: 'Do Hyeon', sans-serif;
+  font-size: 3.0rem;
+  font-weight: bold;
+}
+p{
+  font-family: 'Dancing Script', cursive;
+  font-size: 1rem;
+}
+.top-cloud{
+  position: absolute;
+  right:300px;
+  top:50px;
+
+}
+.para{
+
+  color: #40514E;
+  font-weight: normal;
+  line-height: 2;
+
+}
+.profile{
+  margin-bottom: 50px;
+}
+hr{
+  color: #91c788;
+  border-style: dotted none none none;
+  border-width: 8px;
+  width: 5%;
+}
+.heading{
+  font-size: 1.5rem;
+}
+.b-cloud{
+  position: absolute;
+  bottom:300px;
+  left:300px;
+}
+.pf{
+  width:200px;
+  height:200px;
+  margin:50px;
+
+  border-radius: 20px;
+}
+h3{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+.skill-row{
+  width:50%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.code{
+
+  float: left;
+  width:150px;
+  height:150px;
+}
+.ball{
+  width:25;
+  float:right;
+  padding-left: 30px;
+}
+.btn:hover{
+  color: #fb9300;
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px;
+}
+.e{
+  color: #EAF6F6;
+  font-size: 17px;
+}
+.skills{
+  margin: 100px;
+
+}
+.contact-me{
+  margin: 50px ;
+}
+.footer-link{
+  padding:50px;
+  font-size: 20px;
+}
+.footer-link:hover{
+  color: #8fd6e1;
+}
